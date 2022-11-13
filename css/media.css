@@ -1,0 +1,313 @@
+@media (max-width: 1440px) {
+}
+
+@media (max-width: 1200px) {
+    .hero-group h1 {
+        font-size: 35px;
+    }
+    .hero-group p {
+        font-size: 14px;
+    }
+    .hero-button {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .hero-group button {
+        width: 172px;
+        height: 45px;
+        font-size: 17px;
+    }
+    .apply h1 {
+        font-size: 29px;
+    }
+    .apply p {
+        font-size: 13px;
+    }
+    .deep button {
+        width: 177px;
+        height: 48px;
+        font-size: 18px;
+    }
+    .border border {
+        width: 343px;
+        height: 409px;
+    }
+    .about-group h1 {
+        font-size: 32px;
+    }
+    .about-group p {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .hero-group h1 {
+        font-size: 31px;
+    }
+    .hero-group p {
+        font-size: 12px;
+    }
+    .apply h1 {
+        font-size: 16px;
+    }
+    .apply p {
+        font-size: 7px;
+    }
+    .border border {
+        width: 301px;
+        height: 407px;
+    }
+    .border h1 {
+        font-size: 20px;
+    }
+    .border p {
+        font-size: 12px;
+    }
+    .about-group h1 {
+        font-size: 20px;
+    }
+    .about-group p {
+        font-size: 10px;
+    }
+    .menu div h1 {
+        font-size: 13px;
+    }
+    .menu p {
+        font-size: 12px;
+        padding: 17px 0;
+    }
+    .menu-logo4 h1 {
+        padding-bottom: -10px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        width: 90%;
+    }
+    .section {
+        flex-direction: column-reverse;
+    }
+    .apply {
+        flex-direction: column;
+    }
+    .apply h1 {
+        font-size: 30px;
+    }
+    .apply p {
+        font-size: 14px;
+    }
+    .deep button {
+        margin-left: 86px;
+    }
+    .border h1 {
+        font-size: 20px;
+    }
+    .border p {
+        font-size: 14px;
+    }
+    .border border {
+        width: 290px;
+        height: 386px;
+    }
+    .about {
+        flex-direction: column-reverse;
+    }
+    .menu div h1 {
+        font-size: 10px;
+    }
+    .menu p {
+        font-size: 11px;
+        padding: 14px 0;
+    }
+    .menu-logo4 h1 {
+        padding-bottom: -25px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+    .section {
+        flex-direction: column-reverse;
+    }
+    .img img {
+        width: 120px;
+        height: 35px;
+    }
+    .apply {
+        flex-direction: column;
+    }
+    .about {
+        flex-direction: column-reverse;
+    }
+    .menu div h1 {
+        font-size: 10px;
+    }
+    .menu p {
+        font-size: 11px;
+    }
+    .deep button {
+        margin-left: 100px;
+    }
+    .border img {
+        margin-top: 27px;
+    }
+
+    element.style {
+    }
+    .border h1 {
+        font-weight: 700;
+        font-size: 18px;
+    }
+    .border p {
+        font-size: 13px;
+    }
+    .border border {
+        width: 288px;
+        height: 362px;
+    }
+
+
+}
+
+@media (max-width: 576px) {
+    .menu p {
+        font-weight: 450;
+        font-size: 8px;
+        line-height: 18px;
+        color: #FFFFFF;
+        opacity: 0.6;
+        padding: 12px 0;
+    }
+    .menu div h1 {
+        font-size: 10px;
+    }
+    .menu-logo4 {
+        padding-bottom: 54px;
+    }
+    .menu-logo4 p {
+        padding-bottom: 30px;
+    }
+
+
+}
+
+@media (max-width: 450px) {
+    .menu {
+        flex-direction: column;
+    }
+    .menu div h1 {
+        font-size: 40px;
+    }
+    .menu p {
+        font-size: 14px;
+    }
+    .menu-logo a {
+        font-size: 36px;
+    }
+    .about-group h1 {
+        font-size: 46px;
+    }
+    .about-group p {
+        font-size: 22px;
+    }
+    .menu div h1 {
+        font-size: 65px;
+        padding: 30px 0;
+    }
+
+}
+
+@media (max-width: 400px) {
+    .container {
+        width: 90%;
+    }
+    .menu div h1 {
+        font-size: 40px;
+    }
+    .menu p {
+        font-size: 14px;
+    }
+    .logo-nav {
+        margin-right: 280px;
+    }
+    .border h1 {
+        font-size: 40px;
+    }
+    .border p {
+        font-size: 27px;
+    }
+    .border border {
+        width: 620px;
+        height: 580px;
+        margin: 20px;
+    }
+}
+
+@media (max-width: 380px) {
+    .container {
+        width: 90%;
+    }
+    .section {
+        flex-direction: column;
+        padding-top: 50px;
+    }
+    .apply {
+        flex-direction: column;
+    }
+    .border {
+        flex-direction: column;
+    }
+    .border border {
+
+    }
+    .border h1 {
+        font-size: 33px;
+    }
+    .border p {
+        font-size: 22px;
+    }
+    .border border {
+        width: 475px;
+        height: 476px;
+        margin-top: 20px;
+    }
+    .about {
+        flex-direction: column-reverse;
+    }
+    .about-group h1 {
+        font-size: 46px;
+    }
+    .about-group p {
+        font-size: 21px;
+    }
+    .menu {
+        flex-direction: column;
+    }
+    .menu div h1 {
+        font-size: 66px;
+    }
+    .menu p {
+        padding: 30px 0;
+    }
+    .menu-logo a {
+        font-size: 31px;
+    }
+    .menu-nav a {
+        padding: 15px 0;
+    }
+    .logo nav {
+        margin-right: 300px;
+    }
+    .deep button {
+        margin-left: 120px;
+    }
+    .img img {
+        width: 200px;
+        height: 200px;
+    }
+}
+
